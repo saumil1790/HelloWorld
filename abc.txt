@@ -1,0 +1,12 @@
+ Volume in drive F is Jerry Part I
+ Volume Serial Number is D213-B94E
+
+ Directory of F:\New folder\EclipseWorkspace\HelloWorld\src
+
+04/08/2020  07:34 PM    <DIR>          .
+04/08/2020  07:34 PM    <DIR>          ..
+04/08/2020  07:34 PM                 0 abc.txt
+04/08/2020  07:21 PM               896 hello.class
+04/08/2020  06:59 PM               164 hello.java
+               3 File(s)          1,060 bytes
+               2 Dir(s)  421,073,399,808 bytes free
